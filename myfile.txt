@@ -1,3 +1,9 @@
 This is line 1
-This i line 2
+This is line 2
 This is line 3
+4 th line
+5 th line
+6 th line for 3rd commit
+7 th line for 3rd commit
+mango feature 6th line
+orange feature 7th line
